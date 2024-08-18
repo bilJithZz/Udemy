@@ -1,0 +1,14 @@
+.mylearning{
+    position: absolute;
+    top:76px;
+    width: 160px;
+    background-color: rgb(255, 255, 255);
+    padding: 9px;
+    right: 220px;
+    z-index: 999;
+    border: 1px solid rgb(198, 196, 196);
+}
+
+.mylearning li{
+    list-style-type: none;
+}

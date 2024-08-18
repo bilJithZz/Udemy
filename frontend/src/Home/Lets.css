@@ -1,0 +1,32 @@
+.lets-header{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    margin-top: 60px;
+}
+.lets-tutorial{
+    margin-top: 40px;
+    display: flex;
+    margin-bottom: 30px;
+    padding: 10px;
+    border: 1px solid rgb(173, 151, 151);
+    object-fit: contain;
+    width: 420px;
+    height: 154px;
+    gap: 10px;
+   
+    
+}
+.lets-tutorial img{
+    height: 130px;
+    margin-right: 20px;
+}
+.coloum{
+    display: flex;
+    flex-direction: column;
+}
+.row{
+display: flex;
+gap: 20px;
+/* overflow: scroll; */
+}

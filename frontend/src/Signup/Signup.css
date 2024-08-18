@@ -1,0 +1,31 @@
+.Signup{
+    display: flex;
+}
+.img{
+    padding:20px;
+    margin-left: 100px;
+    margin-top: 37px;
+}
+.right{
+    width: 100%;
+   margin-top: 100px;
+   margin-left: 140px;
+}
+.right form{
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    gap: 10px;
+    margin-top:36px;
+}
+.right input{
+    padding: 22px;
+    font-weight: 500;
+}
+.right button{
+    padding: 17px;
+    background-color: #a435f0;
+    font-size: 20px;
+    font-weight: 400;
+    border: none;
+}

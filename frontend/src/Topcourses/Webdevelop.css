@@ -1,0 +1,35 @@
+.wepdevops{
+    margin-top: 15px;
+    display: flex;
+    /* gap: 10px; */
+    margin-bottom: 20px;
+}
+.wepdevops1{
+
+}
+  .each {
+    /* text-align: center; */
+    /* padding: 10px; */
+  }
+  
+  .each img {
+    width: 300px;
+    height: 200px;
+  }
+  
+  .each h2 {
+    font-size: 1.5rem;
+    margin: 10px 0;
+  }
+  
+  .each span {
+    display: block;
+    margin-bottom: 10px;
+    color: #777;
+  }
+  
+  .each h3 {
+    font-size: 1.25rem;
+    color: #333;
+  }
+  

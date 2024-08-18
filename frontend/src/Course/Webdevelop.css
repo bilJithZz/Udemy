@@ -1,0 +1,120 @@
+/* .course-data{
+    height: 390px;  
+} */
+.course-heading{
+    color: rgb(255, 253, 253);
+    background-color:#333;
+    display: flex;
+    position: relative;
+    
+}
+.course-content{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    margin-left: 890px;
+    margin-top: 90px;
+  background-color: rgb(255, 255, 255);
+  border: 1px solid rgb(242, 238, 238);
+  box-shadow: 0px 1px 10px 0px rgb(180, 173, 173);
+  padding: 2px;
+  gap: 20px;
+  width: 375px;
+}
+.course-content img{
+    width: 370px;
+    height: 230px;
+}
+.course-details{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 200px;
+    gap: 20px;
+    width: 660px;
+    margin-top: 80px;
+    margin-bottom: 29px;
+    color: aliceblue;
+}
+.options{
+    display: flex;
+    justify-content: space-evenly;
+    color: black;
+    margin-top: 10px;
+}
+.course-price{
+    color: black;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+.course-price-details{
+    margin-left: 30px;
+    
+}
+.add2cart .heart{
+ color: #ffffff;
+ font-size: xx-large;
+ border: 2px solid black;
+ height: 50px;
+ align-items: center;
+}
+.add2cart{
+    margin: 16px;
+    display: flex;
+    gap: 5px;
+    align-items: center;
+    height: 50px;
+    justify-content: center;
+}
+.add2cart button{
+    padding: 20px;
+    padding-left:99px ;
+   padding-right:99px ;
+   background-color: #a435f0;
+   border: none;
+}
+.subscription button{
+    padding: 20px;
+    display: flex;
+    padding-left:120px ;
+   padding-right:120px ;
+   border: none;
+   justify-content: center;
+   margin-bottom: 70px;
+   margin-top: 20px;
+   border: 1px solid black;
+}
+.details{
+    margin-left: 200px;
+    width: 660px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+.detail-learn{
+    border: 1px solid rgb(177, 175, 175);
+    padding: 30px;
+    padding-right: 10px;
+
+}
+.detail-learn-element{
+    margin-top: 10px;
+ display:flex;
+ justify-content: space-between;
+}
+.detail-learn-right{
+    width: 90%;
+}
+.course-class-elements{
+   margin-top: 10px;
+}
+.course-class-elements h2{
+    border: 1px solid rgb(177, 175, 175);
+    padding: 13px;
+    font-size: 1rem;
+    background-color: rgb(243, 246, 249);
+}
+/* .play-img{
+    align-items: center;
+} */

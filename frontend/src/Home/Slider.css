@@ -1,0 +1,28 @@
+.home{
+    width: 85%;
+    margin: auto;
+}
+.home-slider img{
+    margin-top: 15px;
+    
+}
+.home-top{
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.home-top img{
+    display: flex;
+    height: 46px;
+    margin-top: 20px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 40px;
+}
+.home-top h2{
+    margin-top: 15px;
+}
+.top .link{
+    text-decoration: none;
+}
